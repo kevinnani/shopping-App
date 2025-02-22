@@ -130,6 +130,69 @@
       "description": "Noise-canceling headphones with crystal-clear  ",
       "image": "https://m.media-amazon.com/images/I/51AEgt2yOOL._AC_UL480_FMwebp_QL65_.jpg",
       "stock": 10
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "id": 16,
+      "name": "Clinic Plus ",
+      "price": 150,
+      "description": "Noise-canceling headphones with crystal-clear  ",
+      "image": "https://m.media-amazon.com/images/I/51AEgt2yOOL._AC_UL480_FMwebp_QL65_.jpg",
+      "stock": 10
+    },
+
+
+
+
+
+    {
+      "id": 17,
+      "name": "Dabur Vatika ",
+      "price": 562,
+      "description": "Dabur Vatika Ayurvedic Shampoo - 1L | ",
+      "image": "https://m.media-amazon.com/images/I/71wDr2elDNL._AC_UL480_FMwebp_QL65_.jpg",
+      "stock": 0
+    },
+    {
+      "id": 18,
+      "name": "Dabur Vatika Lemon",
+      "price": 593,
+      "description": "Dabur Vatika Lemon Anti-Dandruff Shampoo - 1L ",
+      "image": "https://m.media-amazon.com/images/I/6163jCe1qmL._AC_UL480_FMwebp_QL65_.jpg",
+      "stock": 5
+    },
+    {
+      "id": 19,
+      "name": "Kesh King ",
+      "price": 603,
+      "description": "Kesh King Ayurvedic Anti-Hairfall Shampoo | ",
+      "image": "https://m.media-amazon.com/images/I/71+i-wGMRuL._AC_UL480_FMwebp_QL65_.jpg",
+      "stock": 0
+    },
+    {
+      "id": 20,
+      "name": "Noise-canceling",
+      "price": 527,
+      "description": "Noise-canceling headphones crystal-clear  1 L|| ",
+      "image": "https://m.media-amazon.com/images/I/41NVRvdo++L._AC_UL480_FMwebp_QL65_.jpg",
+      "stock": 2
     }
   ]
   
